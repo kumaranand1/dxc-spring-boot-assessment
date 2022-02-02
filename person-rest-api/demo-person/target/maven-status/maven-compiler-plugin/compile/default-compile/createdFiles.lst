@@ -1,0 +1,10 @@
+com\assessment\demoperson\controller\PersonNotFoundException.class
+com\assessment\demoperson\DataValidation\PersondatavalidationApplication.class
+com\assessment\demoperson\Model\Person.class
+com\assessment\demoperson\controller\Personcontroller.class
+com\assessment\demoperson\service\PersonserviceImpl.class
+com\assessment\demoperson\DemoPersonApplication.class
+com\assessment\demoperson\DataValidation\Persondatavalidation.class
+com\assessment\demoperson\service\Personservice.class
+com\assessment\demoperson\DTO\PersonDTO.class
+com\assessment\demoperson\repository\PersonRepository.class

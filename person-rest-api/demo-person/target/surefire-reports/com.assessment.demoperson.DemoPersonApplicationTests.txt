@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.assessment.demoperson.DemoPersonApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.28 s - in com.assessment.demoperson.DemoPersonApplicationTests
